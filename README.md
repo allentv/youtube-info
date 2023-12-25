@@ -1,8 +1,9 @@
 # Youtube Info
 
-## Deprecation Notice
+> I forked this code from `philbot9/youtube-info` to keep it upto date (security vulnerabilities) 
+> and address any changes that folks using the original repo may need especially around changes
+> to the publicly available Youtube information
 
-This package has been deprecated and no longer works.
 
 ## Purpose
 
